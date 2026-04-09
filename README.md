@@ -90,4 +90,4 @@ Supports structured explanations for seminal papers such as:
 
 ## 🔄 Project Status
 
-🚧 This project is actively under development. I am continuously working on improving its capabilities, and significant enhancements and research-driven extensions are planned in future iterations.
+🚧 This project is actively under development. I am continuously enhancing it by expanding the range of research papers and integrating more powerful models, with further improvements and research-driven extensions planned in upcoming iterations.
