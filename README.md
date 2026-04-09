@@ -8,8 +8,6 @@ Modern AI research is advancing at an unprecedented pace, but **accessibility an
 
 This project addresses that gap by building a **lightweight, customizable research assistant** that transforms complex academic papers into **structured, audience-aware explanations**—ranging from beginner intuition to technical and mathematical depth.
 
-> 🎯 **Goal:** Make cutting-edge research understandable, explorable, and reusable across skill levels.
-
 ---
 
 ## 🔬 Why This Project Matters
