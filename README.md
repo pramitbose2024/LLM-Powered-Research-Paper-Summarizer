@@ -87,3 +87,7 @@ Supports structured explanations for seminal papers such as:
 * Diffusion Models
 
 ---
+
+## 🔄 Project Status
+
+🚧 This project is actively under development. I am continuously working on improving its capabilities, and significant enhancements and research-driven extensions are planned in future iterations.
